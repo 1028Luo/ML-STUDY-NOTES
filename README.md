@@ -48,9 +48,20 @@ Dimensionality Reduction	K-Means, PCA, DBSCAN
 
 5. Data processing
 
-
 9. other
 Recommendation Systems:
   Netflix, Amazon Suggestions	Collaborative Filtering, Deep Learning
 NLP & Vision:
   Chatbots, Object Detection	BERT, GPT, CNNs, Vision Transformers
+
+
+TO DO:
+1. Finish chatbot 2.20
+   
+2. Some more ML learning and summary 2.23
+
+3. Refine resume and start applying 2.25
+
+4. transformer from scratch 2.28
+
+5. Leetcode, 2.25 onwards
