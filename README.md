@@ -24,19 +24,23 @@ Content included:
        Decision Trees Regression
    SVM, Neural Networks
    
-3. Unsupervised Learning	
+2. Unsupervised Learning	
   Clustering:
   
   Anomaly Detection,
   K Clustering
 Dimensionality Reduction	K-Means, PCA, DBSCAN
 
-5. Reinforcement Learning:
+3. Reinforcement Learning:
   Game AI, Robotics	Q-Learning, PPO, DQN
 
-7. Generative Models:
+4. Generative Models:
   AI-generated text/images	GANs, VAEs, Transformers
-8. other
+
+5. Data processing
+
+
+9. other
 Recommendation Systems:
   Netflix, Amazon Suggestions	Collaborative Filtering, Deep Learning
 NLP & Vision:
